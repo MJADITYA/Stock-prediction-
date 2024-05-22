@@ -8,7 +8,7 @@ from tensorflow.keras.layers import LSTM, Dense
 
 # Load the stock price data
 # Replace 'AAPL' with any stock symbol you want to predict
-data = pd.read_csv(r'C:\Users\ADITYA\Downloads\CSV.csv')
+data = pd.read_csv(r'enter path of dataset')
 
 # Display the first few rows of the dataframe
 data.head()
