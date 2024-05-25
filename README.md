@@ -1,7 +1,7 @@
 
 # stock prediction
 **overview**
-This project aims to predict stock prices using various machine learning algorithms. The model leverages historical stock data and other financial indicators to forecast future prices, helping investors make informed decisions.
+* This project aims to predict stock prices using various machine learning algorithms. The model leverages historical stock data and other financial indicators to forecast future prices, helping investors make informed decisions.
 
 **Features** 
 * Historical data collection and preprocessing 
